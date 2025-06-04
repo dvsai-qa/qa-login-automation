@@ -1,0 +1,7 @@
+cd path/to/qa-login-automation
+git init
+git remote add origin https://github.com/your-username/qa-login-automation.git
+git add.
+git commit -m "Initial commit - QA automation project"
+git branch -M main
+git push -u origin main
